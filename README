@@ -1,0 +1,5 @@
+#Peepcode Screencast
+#Backbone.js
+
+rake server
+http://localhost:9292
